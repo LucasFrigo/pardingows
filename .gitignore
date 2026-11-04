@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Rendered output (regenerate with the render scripts / Blender)
+out/
+blender/solucao/frames/
+
+# Blender backups
+*.blend1
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+__MACOSX/
+Thumbs.db

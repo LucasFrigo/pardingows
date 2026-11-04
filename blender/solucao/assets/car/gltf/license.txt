@@ -1,0 +1,11 @@
+Model Information:
+* title:	PS1 Police Car - Chevrolet Caprice 1978
+* source:	https://sketchfab.com/3d-models/ps1-police-car-chevrolet-caprice-1978-3000906db39245ff8e519f85a50a8403
+* author:	zufari4 (https://sketchfab.com/zufari4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PS1 Police Car - Chevrolet Caprice 1978" (https://sketchfab.com/3d-models/ps1-police-car-chevrolet-caprice-1978-3000906db39245ff8e519f85a50a8403) by zufari4 (https://sketchfab.com/zufari4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

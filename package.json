@@ -1,0 +1,16 @@
+{
+  "name": "surupardo-tiktok",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pixel-art TikTok loop for SURUPARDO by PARDINGOWS",
+  "scripts": {
+    "stills": "node src/surupardo/stills.mjs",
+    "render": "node src/surupardo/render.mjs",
+    "riso:stills": "node src/riso/stills.mjs",
+    "riso:render": "node src/riso/render.mjs"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0"
+  }
+}
