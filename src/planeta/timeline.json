@@ -1,0 +1,50 @@
+{
+  "_": "All timing lives here, read by Blender (shots) and Node (HUD). Times are song seconds. Video time = song - start. Word times drafted with faster-whisper, spellings from the written lyrics, 'est' = placed by pattern, not heard. To fix a late or early word, change its number and re-render.",
+  "audio_prefix": "PLANETA",
+  "start": 35.429,
+  "frames": 669,
+  "fps": 30,
+  "bpm": 105,
+  "title": "PLANETA DOS PARDOS",
+  "lines": [
+    { "hide": true, "words": [["PLANETA", 36.57, "key"], ["DOS", 36.96], ["PARDOS", 37.16, "key"]] },
+    { "words": [["ANDANDO", 37.86], ["NA", 38.12], ["RUA", 38.26, "key"], ["ME", 38.56], ["CHAMARAM", 38.72], ["DE", 39.14], ["MACACO", 39.24, "insult"]] },
+    { "words": [["ANDANDO", 40.08], ["NA", 40.38], ["RUA", 40.54, "key"], ["NÃO", 40.82], ["PERCEBEM", 41.04], ["QUE", 41.44], ["SOU", 41.56], ["PARDO", 41.72, "key"]] },
+    { "words": [["SE", 42.12], ["PEGO", 42.26], ["SOL", 42.54, "key"], ["NA", 42.68], ["PELE", 42.88, "key"], ["JUNTO", 43.08], ["DELA", 43.36], ["VEM", 43.68], ["UM", 43.88], ["FARDO", 44.16, "hit"]] },
+    { "words": [["NO", 45.60], ["PARDOMON", 45.68, "key"], ["FALARAM", 46.10], ["QUE", 46.54], ["EU", 46.62], ["SOU", 46.78], ["BRANCO", 46.84, "insult"]] },
+    { "hide": true, "words": [["NÃO!", 47.60, "hit"]] },
+    { "words": [["COMO", 48.00], ["QUE", 48.26], ["É", 48.46], ["BRANCO", 48.56], ["SE", 48.88], ["MINHA", 49.00], ["PELE", 49.18], ["É", 49.36], ["PAPELÃO", 49.44, "key"]] },
+    { "words": [["TIPO", 50.30], ["CHIMPANZÉ", 50.56, "key"], ["TO", 51.02], ["COM", 51.12], ["A", 51.20], ["PISTOLA", 51.32, "key"], ["NA", 51.86], ["MÃO", 52.00]] },
+    { "words": [["TIPO", 52.46], ["MACACO", 52.94, "key"], ["CÉSAR", 53.38, "key"], ["SÓ", 53.54], ["APRENDE", 53.72], ["A", 53.96], ["FALAR", 54.08]] },
+    { "hide": true, "words": [["NÃO", 54.24, "hit"], ["NÃO", 54.78, "hit"]] }
+  ],
+  "shots": {
+    "landing":  [35.429, 37.86],
+    "rua1":     [37.86, 40.08],
+    "rua2":     [40.08, 42.12],
+    "sol":      [42.12, 45.60],
+    "pardomon": [45.60, 48.00],
+    "papelao":  [48.00, 50.30],
+    "standoff": [50.30, 52.46],
+    "cesar":    [52.46, 55.429],
+    "report":   [55.429, 57.729]
+  },
+  "cues": {
+    "touchdown": 36.57,
+    "chimps_in": 38.72,
+    "macaco": 39.24,
+    "scan": 41.04,
+    "pardo": 41.72,
+    "sun_rise": 42.54,
+    "fardo": 44.16,
+    "pardomon_in": 45.68,
+    "branco": 46.84,
+    "nao": 47.60,
+    "papelao": 49.44,
+    "papelao_off": 50.18,
+    "draw": 50.56,
+    "pistola": 51.32,
+    "nao1": 54.24,
+    "nao2": 54.78
+  }
+}

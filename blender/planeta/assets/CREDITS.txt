@@ -1,0 +1,18 @@
+3D assets used in the PLANETA DOS PARDOS video. All are CC-BY-4.0, so the credit must appear wherever the video is shared.
+
+Paste into the video description:
+
+This work is based on "Caesar Planet Of The Apes Rigged" (https://sketchfab.com/3d-models/caesar-planet-of-the-apes-rigged-c69010aa3f954c7c8886de9dff38c307) by 00amza (https://sketchfab.com/00amza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Modified: polygons and texture reduced, jaw and mouth added, posed.
+This work is based on "low poly chimp" (https://sketchfab.com/3d-models/low-poly-chimp-c6d7980561064358ba2d122cbda877de) by tayljr (https://sketchfab.com/tayljr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Modified: rigged, suit added, posed.
+This work is based on "PS1 style low poly Sun, Earth and Moon bundle" (https://sketchfab.com/3d-models/ps1-style-low-poly-sun-earth-and-moon-bundle-a4a10124f767413892e6ff5340b5daf4) by albert_buscio (https://sketchfab.com/albert_buscio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Modified: moon removed, sun made self-lit.
+This work is based on "PS1 style low poly asteroids" (https://sketchfab.com/3d-models/ps1-style-low-poly-asteroids-994740be63754d76ad4988f05f9cd6f1) by albert_buscio (https://sketchfab.com/albert_buscio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Simple Low Poly Lunar Lander" (https://sketchfab.com/3d-models/simple-low-poly-lunar-lander-bc9a0f58bd35480eb0cbf39167789042) by Trockk (https://sketchfab.com/Timrockk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Low Poly Astronaut and Crew Module" (https://sketchfab.com/3d-models/low-poly-astronaut-and-crew-module-5906dfa74d3242989350970240510702) by MauricioPB (https://sketchfab.com/mauriciopb1111) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Modified: astronaut removed.
+This work is based on "Moonbase" (https://sketchfab.com/3d-models/moonbase-6924b0add16841c4b94f699494a758aa) by daviddickball (https://sketchfab.com/daviddickball) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Brazilian Streetlight" (https://sketchfab.com/3d-models/brazilian-streetlight-05dd24f8d3db4f7f8e61a660197f3030) by cacatua (https://sketchfab.com/cacatua) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "PS1 Handgun" (https://sketchfab.com/3d-models/ps1-handgun-aba9ad7845fe4b4f9c8b67805a6c1eda) by RDDev (https://sketchfab.com/RDDev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "PSX Style Cardboard Boxes" (https://sketchfab.com/3d-models/psx-style-cardboard-boxes-a2b900c7598440ed875cc1413039acad) by wooolvie (https://sketchfab.com/wooolvie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) Modified: heaped with a core and straps added.
+
+Not credit lines, but check before publishing:
+Smurf base model: by grishamanimation1, repainted, suit and mask added. Licence terms not verified.
+Caesar: CC-BY covers the uploader's model, not the Planet of the Apes character, which belongs to the film studio. Used here as parody.

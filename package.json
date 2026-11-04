@@ -8,9 +8,17 @@
     "stills": "node src/surupardo/stills.mjs",
     "render": "node src/surupardo/render.mjs",
     "riso:stills": "node src/riso/stills.mjs",
-    "riso:render": "node src/riso/render.mjs"
+    "riso:render": "node src/riso/render.mjs",
+    "planeta:stills": "node src/planeta/stills.mjs",
+    "planeta:render": "node src/planeta/render.mjs",
+    "missao:stills": "node src/missao/stills.mjs",
+    "missao:render": "node src/missao/render.mjs",
+    "feliz:proof": "node src/feliz/render.mjs --proof",
+    "feliz:stills": "node src/feliz/stills.mjs",
+    "feliz:render": "node src/feliz/render.mjs"
   },
   "dependencies": {
+    "@napi-rs/canvas": "^1.1.0",
     "ffmpeg-static": "^5.2.0"
   }
 }

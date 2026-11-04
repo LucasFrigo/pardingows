@@ -1,0 +1,11 @@
+Model Information:
+* title:	Caesar Planet Of The Apes Rigged
+* source:	https://sketchfab.com/3d-models/caesar-planet-of-the-apes-rigged-c69010aa3f954c7c8886de9dff38c307
+* author:	00amza (https://sketchfab.com/00amza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Caesar Planet Of The Apes Rigged" (https://sketchfab.com/3d-models/caesar-planet-of-the-apes-rigged-c69010aa3f954c7c8886de9dff38c307) by 00amza (https://sketchfab.com/00amza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

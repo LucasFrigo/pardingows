@@ -4,6 +4,14 @@ node_modules/
 # Rendered output (regenerate with the render scripts / Blender)
 out/
 blender/solucao/frames/
+blender/planeta/frames/
+blender/missao/frames/
+blender/feliz/frames/
+blender/feliz/sync/
+
+# Raw Sketchfab downloads, about 500 MB (regenerate with src/missao/blender/fetch_assets.py)
+blender/missao/assets/*/
+blender/feliz/assets/*/
 
 # Blender backups
 *.blend1

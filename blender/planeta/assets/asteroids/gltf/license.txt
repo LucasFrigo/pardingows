@@ -1,0 +1,11 @@
+Model Information:
+* title:	PS1 style low poly asteroids
+* source:	https://sketchfab.com/3d-models/ps1-style-low-poly-asteroids-994740be63754d76ad4988f05f9cd6f1
+* author:	albert_buscio (https://sketchfab.com/albert_buscio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PS1 style low poly asteroids" (https://sketchfab.com/3d-models/ps1-style-low-poly-asteroids-994740be63754d76ad4988f05f9cd6f1) by albert_buscio (https://sketchfab.com/albert_buscio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

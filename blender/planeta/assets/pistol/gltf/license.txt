@@ -1,0 +1,11 @@
+Model Information:
+* title:	PS1 Handgun
+* source:	https://sketchfab.com/3d-models/ps1-handgun-aba9ad7845fe4b4f9c8b67805a6c1eda
+* author:	RDDev (https://sketchfab.com/RDDev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PS1 Handgun" (https://sketchfab.com/3d-models/ps1-handgun-aba9ad7845fe4b4f9c8b67805a6c1eda) by RDDev (https://sketchfab.com/RDDev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

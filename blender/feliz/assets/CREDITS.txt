@@ -1,0 +1,30 @@
+PARDOS FELIZ: third-party models. Licence and author from the public Sketchfab API.
+
+arvore: "Animal Crossing Apple Tree" by damienbouchez59, CC Attribution, https://sketchfab.com/3d-models/2ed2a55eebbb4b4fb60484390f611d20
+arvore2: "Cartoon tree" by Bobis80, CC Attribution, https://sketchfab.com/3d-models/dde49eebec874267b52e53404655f9ca
+coqueiro: "Coconut Tree" by sujirour, CC Attribution, https://sketchfab.com/3d-models/d141941578044b0f861ca83b36d4c411
+casa: "Animal Crossing House" by JMGameDev, CC Attribution, https://sketchfab.com/3d-models/68fd7b3b59d8441e82e64960620ac0e2
+casa2: "House" by CocoJinjo, CC Attribution, https://sketchfab.com/3d-models/45a28a49e57e496e8b91d6de5c0ac88a
+casa3: "Cute lil house" by Baboyo, CC Attribution, https://sketchfab.com/3d-models/745f09c22e8943b3bcc5fa47e0aea6ec
+flor: "Margarita flower" by blujay, CC Attribution, https://sketchfab.com/3d-models/58ce34c65642408cb92eab784af2bd6c
+lirio: "Water lily" by MariiaMelnik, CC Attribution, https://sketchfab.com/3d-models/04dd636204cd4b0db45a4fc82efa4385
+lotus: "Stylized Lotus Flower" by Kigha, CC Attribution, https://sketchfab.com/3d-models/12768caa111f446b8796e70f9cc53a23
+cerca: "Stylized Fence" by compotchino, CC Attribution, https://sketchfab.com/3d-models/9d8ce953d9414a07b974af8629dda93a
+poste: "Lamp Post w/ Handpainted Textures" by happitack, CC Attribution, https://sketchfab.com/3d-models/6f257cdc33e6470a836892cb7fa6a47f
+banco: "Wooden Park Bench" by TheMadraver, CC Attribution, https://sketchfab.com/3d-models/e53ad46c604c44e59a98bad27041cb19
+mesa: "Picnic Table - Low Poly" by derek_flanagan, CC Attribution, https://sketchfab.com/3d-models/fe35acda3a5245da8459d1a062e28190
+correio: "Mailbox LP" by yevheniia, CC Attribution, https://sketchfab.com/3d-models/52cd14f6b8f54bb6bb26d728c02fd9e2
+gato: "Toon Cat FREE" by omabuarts, CC Attribution, https://sketchfab.com/3d-models/b2bd1ee7858444bda366110a2d960386
+pato: "Stylized Duck Character - PBR Game Asset" by GabijaSenk, CC Attribution, https://sketchfab.com/3d-models/613776d688764d0aaa615d1c84379733
+cachorro: "Chibi Stray Puppy" by DreamNoms, CC Attribution, https://sketchfab.com/3d-models/5be9012283c340de8d48a59bcfa0a39b
+guaxinim: "Pots the Raccoon" by lemonleon, CC Attribution, https://sketchfab.com/3d-models/2b3b6a5abe784dfe816fec5bf62542c2
+abelha: "Smiley Bee" by uosew, CC Attribution, https://sketchfab.com/3d-models/76801d3aea024063bc5d91e4ee355508
+celular: "Low Poly Mobile Phone" by k_nelms, CC Attribution, https://sketchfab.com/3d-models/4ff99cf17b164e7b9790638c5d2ef4ce
+aero: "Frutiger Aero Character" by CrueltyServer, CC Attribution, https://sketchfab.com/3d-models/23ad9c70727c4edeabbf7208b7c3511c
+koi: "Koi Fish" by 7plus, CC Attribution, https://sketchfab.com/3d-models/236859b809984f52b70c94fd040b9c59
+golfinho: "Dolphin - animated - marine mammals series" by nolanfa, CC Attribution, https://sketchfab.com/3d-models/f4abb460956240f98b7a6f19cc3037a1
+ilha: "Low Poly Floating Island" by trofimenkoeli, CC Attribution, https://sketchfab.com/3d-models/b9a708aa70424f0699e9c4e3b5b5700a
+balao: "Hot Air Balloon - Low Poly" by Styro4, CC Attribution, https://sketchfab.com/3d-models/a420e9196b744919806ae532b3a11bf7
+
+The pardo and Berg bodies are the rigged smurf from blender/solucao (see that folder's CREDITS.txt: the smurf model's licence is unverified).
+Font: Fredoka, SIL Open Font License, src/feliz/fonts/OFL.txt.

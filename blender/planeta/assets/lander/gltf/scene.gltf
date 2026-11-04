@@ -1,0 +1,349 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        3193.839599609375,
+        -109.54557800292969,
+        -3935.9013671875
+      ],
+      "min": [
+        1267.0048828125,
+        -1706.0528564453125,
+        -5604.58935546875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 34092,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9984758496284485
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 22728,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45456,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 68184,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 90912,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 113640,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 136368,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 159096,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 181824,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 204552,
+      "componentType": 5126,
+      "count": 2841,
+      "max": [
+        212.5113067626953,
+        220.6531219482422
+      ],
+      "min": [
+        -234.9971466064453,
+        -216.99488830566406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5262,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Trockk (https://sketchfab.com/Timrockk)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/simple-low-poly-lunar-lander-bc9a0f58bd35480eb0cbf39167789042",
+      "title": "Simple Low Poly Lunar Lander"
+    },
+    "generator": "Sketchfab-15.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 21048,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 227280,
+      "byteOffset": 21048,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 68184,
+      "byteOffset": 248328,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 316512,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "FrontColor",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9302134966129227
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mesh1_FrontColor_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4,
+            "TEXCOORD_3": 5,
+            "TEXCOORD_4": 6,
+            "TEXCOORD_5": 7,
+            "TEXCOORD_6": 8,
+            "TEXCOORD_7": 9,
+            "TEXCOORD_8": 10,
+            "TEXCOORD_9": 11
+          },
+          "indices": 12,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "10c5f5ba7a5a46799667f89242bcb815.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Model"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Mesh1"
+    },
+    {
+      "mesh": 0,
+      "name": "Mesh1_FrontColor_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
