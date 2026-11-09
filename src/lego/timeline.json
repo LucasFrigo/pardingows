@@ -1,0 +1,65 @@
+{
+  "_": "All timing lives here, read by Blender (shots) and Node (captions). Times are song seconds. Video time v = song - start, frames are 1-based with v = (f-1)/30. To fix a late or early word, change its number and run: npm run lego:proof. Word times: forced aligner and Whisper on the Demucs vocal stem, snapped to the attack within 80 ms (src/lego/sync/attacks.py). The 'notes' list every word placed by judgement rather than by the snap rule.",
+  "audio_prefix": "PARDOS FELIZ",
+  "mix": "blender/lego/sync/mix_censored.wav",
+  "mix_t0": 214.0,
+  "start": 218.4,
+  "frames": 922,
+  "fps": 30,
+  "bpm": 125,
+  "beat0": 218.4,
+  "bleeps": [],
+  "_bleeps": "The user chose caption-only censoring on 2026-11-05: retardado is sung as recorded. A span like [248.13, 249.03] here would bleep it again (run src/lego/sync/bleep.py).",
+  "notes": {
+    "cut": "Band hits measured at 218.400 and 249.150 on the stem, grid within 36 ms across all 17 bars. Vocals silent at both cut points. Exactly 16 bars.",
+    "1 hoje": "Moved by eye from the snap's 218.71 to the sharp vocal onset at 218.63 on the spectrogram.",
+    "6 e": "Not sung as a separate syllable (aligner score 0.04). Placed one frame before sete so it still pops.",
+    "2 a, 5 o, 8 eu": "No separate attack, aligner time. Whisper agrees within 90 ms.",
+    "7 que, 8 e": "Aligner score near 0, placed on the attack seen on the spectrogram.",
+    "cuts": "Each sketch cut is the half-beat nearest the line's first word. Sung lines fall within 40 ms of that grid."
+  },
+  "lines": [
+    { "sketch": "rua", "plate": "red", "brk": 5, "words": [
+      ["hoje", 218.63], ["eu", 218.94], ["não", 219.13], ["fico", 219.36], ["puto,", 219.83],
+      ["fodase", 220.24], ["israel", 221.05] ] },
+    { "sketch": "calendario", "plate": "yellow", "brk": 6, "words": [
+      ["terça", 222.02], ["dos", 222.51], ["pardos", 222.75], ["é", 223.31], ["a", 223.53], ["data,", 223.69],
+      ["vou", 224.16], ["ficar", 224.32], ["namoral", 224.88] ] },
+    { "sketch": "cofre", "plate": "red", "brk": 5, "words": [
+      ["pausar", 225.83], ["os", 226.38], ["planos", 226.58], ["de", 227.07], ["roubar", 227.31],
+      ["a", 227.78], ["La", 228.05], ["Casa", 228.26], ["de", 228.74], ["Papel", 228.96] ] },
+    { "sketch": "parque", "plate": "green", "brk": 3, "words": [
+      ["sem", 230.16], ["menisquencia,", 230.44], ["triste,", 231.34],
+      ["sem", 231.84], ["pensar", 232.06], ["nada", 232.56], ["mal", 233.05] ] },
+    { "sketch": "corrida", "plate": "blue", "brk": 4, "words": [
+      ["Em", 233.50], ["Busca", 233.81], ["da", 234.20], ["Felicidade", 234.50],
+      ["é", 235.67], ["o", 235.81], ["remix", 235.91], ["dos", 236.62], ["pardos", 236.89] ] },
+    { "sketch": "praca", "plate": "yellow", "brk": 5, "words": [
+      ["sessenta", 237.40], ["e", 238.05], ["sete", 238.08], ["ponto", 238.56], ["nove", 239.04],
+      ["noia", 239.52], ["por", 240.04], ["metro", 240.27], ["quadrado", 240.69] ] },
+    { "sketch": "interrogatorio", "plate": "green", "brk": 7, "words": [
+      ["eu", 241.19], ["quero", 241.41], ["saber", 241.92], ["quem", 242.40], ["é", 242.64], ["que", 242.86], ["vai", 243.36],
+      ["bolar", 243.85], ["mais", 244.32], ["um", 244.61], ["baseado", 244.82] ] },
+    { "sketch": "quarto", "plate": "blue", "brk": 5, "words": [
+      ["pra", 245.78], ["eu", 246.02], ["chegar", 246.24], ["em", 246.56], ["casa", 246.76],
+      ["e", 247.25], ["dormir", 247.45], ["bem", 247.93], ["r3t#ard$do", 248.15] ] }
+  ],
+  "shots": [
+    { "sketch": "rua", "t": 218.40 },
+    { "sketch": "calendario", "t": 222.00 },
+    { "sketch": "cofre", "t": 225.84 },
+    { "sketch": "parque", "t": 230.16 },
+    { "sketch": "corrida", "t": 233.52 },
+    { "sketch": "praca", "t": 237.36 },
+    { "sketch": "interrogatorio", "t": 241.20 },
+    { "sketch": "quarto", "t": 245.76 }
+  ],
+  "cues": {
+    "fodase": 220.24,
+    "pause": 225.83,
+    "remix": 235.91,
+    "six_seven_in": 237.40,
+    "six_seven_out": 239.52,
+    "baseado": 244.82
+  }
+}

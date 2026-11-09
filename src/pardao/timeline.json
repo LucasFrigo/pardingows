@@ -1,0 +1,279 @@
+{
+ "_": "All timing lives here, read by Blender (shots) and Node (captions, HUD). Times are song seconds. Video time v = song - start, frame index n = round(v * 30). To fix a late or early word, change its number and run: npm run pardao:proof. Word times: CTC forced aligner and Whisper on the Demucs vocal stem, snapped to the vocal attack within 80 ms (src/pardao/sync/attacks.py). The notes list every word placed by judgement.",
+ "audio": "audio/PARDÃO2000_2.wav",
+ "mix": "blender/pardao/sync/song.wav",
+ "mix_t0": 0,
+ "start": 157.574,
+ "frames": 964,
+ "fps": 30,
+ "bpm": 127,
+ "beat0": 157.574,
+ "notes": {
+  "cut": "Window 157.574 to 189.700 s, exactly 17 bars at 127 BPM. Grid fitted on the instrumental stem (src/pardao/sync/grid.py), band hits within 39 ms of it across all bars. 16 bars would cut into 'jumento' (187.75), so the 17th bar carries the 'pardjhonson' tag. The vocal stem has wordless backing vocals across both cut points (Whisper hears no words there).",
+  "1 descobri": "Whisper put it at 157.74, the aligner at 158.30 in every spelling variant (score 0.88 as descubri). Aligner kept; the sound from 157.58 is wordless backing.",
+  "4 muito": "No attack within 80 ms, aligner time (score 0.63).",
+  "15 com": "Aligner score 0.00 and Whisper hears only \"o sotaque\": possibly not sung. Aligner time kept so the caption reads as written.",
+  "8 só lamento": "Shouted right after muro (user, 2026-11-06). Whisper misses it and the aligner scores it 0.02-0.2, so the times are the vocal attacks in the gap before então: só 173.256 (flux and rise agree), lamento 173.414. Hand edit: make_timeline.mjs doesn't know it.",
+  "shots": "Each moment cut is the 8th note at or before (1 frame slack) the first word of the line's first word; the first one is the window start."
+ },
+ "lines": [
+  {
+   "moment": "card",
+   "speaker": "PARDO",
+   "brk": 3,
+   "words": [
+    ["descobri", 158.305],
+    ["q", 158.974],
+    ["eu", 159.318],
+    ["so", 159.463],
+    ["pardo", 159.692]
+   ]
+  },
+  {
+   "moment": "apagao",
+   "speaker": "PARDO",
+   "brk": 3,
+   "words": [
+    ["eu", 160.171],
+    ["nao", 160.346],
+    ["sumo", 160.68],
+    ["no", 161.124],
+    ["escuro", 161.323]
+   ]
+  },
+  {
+   "moment": "crew",
+   "speaker": "PARDOS",
+   "brk": 2,
+   "words": [
+    ["na", 162.017],
+    ["presença", 162.296],
+    ["dos", 163.015],
+    ["pardos", 163.249]
+   ]
+  },
+  {
+   "moment": "baseado",
+   "speaker": "PARDO",
+   "brk": 3,
+   "words": [
+    ["eu", 163.708],
+    ["fumo", 163.848],
+    ["muito", 164.367],
+    ["e", 164.666],
+    ["fico", 164.915],
+    ["burro", 165.394]
+   ]
+  },
+  {
+   "moment": "banger",
+   "speaker": "PARDO",
+   "brk": 3,
+   "words": [
+    ["toda", 165.858],
+    ["terça", 166.307],
+    ["um", 166.581],
+    ["banger", 166.791],
+    ["novo,", 167.275]
+   ]
+  },
+  {
+   "moment": "combo",
+   "speaker": "PARDO",
+   "brk": 2,
+   "words": [
+    ["pardo", 167.719],
+    ["isso", 168.213],
+    ["é", 168.437],
+    ["absurdo", 168.707]
+   ]
+  },
+  {
+   "moment": "horda",
+   "speaker": "PARDOS",
+   "brk": 2,
+   "words": [
+    ["os", 169.644],
+    ["mildingows", 169.884],
+    ["te", 170.582],
+    ["enquadram", 170.827]
+   ]
+  },
+  {
+   "moment": "muro",
+   "speaker": "PARDOS",
+   "brk": 4,
+   "words": [
+    ["fuzilam", 171.585],
+    ["voce", 172.244],
+    ["no", 172.707],
+    ["muro", 172.867],
+    ["(SÓ", 173.256],
+    ["LAMENTO!)", 173.414]
+   ]
+  },
+  {
+   "moment": "continue",
+   "speaker": "PARDO",
+   "brk": 2,
+   "words": [
+    ["entao", 173.63],
+    ["presta", 173.875],
+    ["atençao", 174.354]
+   ]
+  },
+  {
+   "moment": "aquecimento",
+   "speaker": "PARDOS",
+   "brk": 2,
+   "words": [
+    ["nesse", 175.312],
+    ["novo", 175.756],
+    ["aquecimento", 176.01]
+   ]
+  },
+  {
+   "moment": "mapa",
+   "speaker": "PARDO",
+   "brk": 3,
+   "words": [
+    ["ce", 177.257],
+    ["vc", 177.427],
+    ["nao", 177.866],
+    ["cola", 178.135],
+    ["terça", 178.589]
+   ]
+  },
+  {
+   "moment": "perdeu",
+   "speaker": "PARDO",
+   "brk": 2,
+   "words": [
+    ["perde", 179.078],
+    ["os", 179.452],
+    ["acontecimento", 179.562]
+   ]
+  },
+  {
+   "moment": "golpes",
+   "speaker": "PARDO",
+   "brk": 2,
+   "words": [
+    ["tenho", 180.994],
+    ["mil", 181.323],
+    ["ideias", 181.612],
+    ["novas", 182.4]
+   ]
+  },
+  {
+   "moment": "momento",
+   "speaker": "PARDO",
+   "brk": 0,
+   "words": [
+    ["aproveito", 182.924],
+    ["o", 183.862],
+    ["momento", 183.957]
+   ]
+  },
+  {
+   "moment": "sotaque",
+   "speaker": "PARDO",
+   "brk": 2,
+   "words": [
+    ["com", 184.65],
+    ["o", 184.765],
+    ["sotaque", 184.98],
+    ["carioca", 185.668]
+   ]
+  },
+  {
+   "moment": "jumento",
+   "speaker": "PARDO",
+   "brk": 2,
+   "words": [
+    ["mais", 186.636],
+    ["malandro", 186.785],
+    ["qiesse", 187.309],
+    ["jumento", 187.748]
+   ]
+  },
+  {
+   "moment": "resultado",
+   "speaker": "PARDJHONSON",
+   "brk": 0,
+   "words": [
+    ["pardjhonson", 188.522]
+   ]
+  }
+ ],
+ "shots": [
+  {
+   "t": 157.574,
+   "moment": "card"
+  },
+  {
+   "t": 160.172,
+   "moment": "apagao"
+  },
+  {
+   "t": 161.826,
+   "moment": "crew"
+  },
+  {
+   "t": 163.716,
+   "moment": "baseado"
+  },
+  {
+   "t": 165.842,
+   "moment": "banger"
+  },
+  {
+   "t": 167.731,
+   "moment": "combo"
+  },
+  {
+   "t": 169.621,
+   "moment": "horda"
+  },
+  {
+   "t": 171.511,
+   "moment": "muro"
+  },
+  {
+   "t": 173.637,
+   "moment": "continue"
+  },
+  {
+   "t": 175.291,
+   "moment": "aquecimento"
+  },
+  {
+   "t": 177.18,
+   "moment": "mapa"
+  },
+  {
+   "t": 179.07,
+   "moment": "perdeu"
+  },
+  {
+   "t": 180.96,
+   "moment": "golpes"
+  },
+  {
+   "t": 182.85,
+   "moment": "momento"
+  },
+  {
+   "t": 184.503,
+   "moment": "sotaque"
+  },
+  {
+   "t": 186.629,
+   "moment": "jumento"
+  },
+  {
+   "t": 188.519,
+   "moment": "resultado"
+  }
+ ]
+}

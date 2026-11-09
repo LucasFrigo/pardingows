@@ -8,10 +8,18 @@ blender/planeta/frames/
 blender/missao/frames/
 blender/feliz/frames/
 blender/feliz/sync/
+blender/zombies/frames/
+blender/zombies/sync/
+blender/lego/frames/
+blender/lego/sync/
+blender/lego/frames_animatic/
+blender/lego/frames_test/
 
 # Raw Sketchfab downloads, about 500 MB (regenerate with src/missao/blender/fetch_assets.py)
 blender/missao/assets/*/
 blender/feliz/assets/*/
+blender/zombies/assets/*/
+blender/lego/assets/*/
 
 # Blender backups
 *.blend1
@@ -24,3 +32,23 @@ __pycache__/
 .DS_Store
 __MACOSX/
 Thumbs.db
+
+# PARDÃO 2000 working files
+blender/pardao/frames/
+blender/pardao/assets/*/
+blender/pardao/sync/
+blender/pardao/frames_test/
+blender/pardao/review/cast/
+blender/pardao/review/gallery/
+
+# PARDÃO E A ERVA working files
+blender/erva/frames/
+blender/erva/assets/*/
+blender/erva/sync/
+blender/erva/review/cast/
+blender/erva/review/gallery/
+
+# Song masters over GitHub's 100 MB file limit (kept locally)
+audio/PARDOS FELIZ.wav
+audio/PARDOS vs ZOMBIES.wav
+audio/pardão&erva.wav

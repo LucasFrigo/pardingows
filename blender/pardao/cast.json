@@ -1,0 +1,50 @@
+{
+ "_": "Written by s03_cast.py. Lengths in metres unless noted.",
+ "smurf_scale": 0.23,
+ "pardo_ground_body_z": 0.026,
+ "pardo_height": 1.668,
+ "players": {
+  "P1": "ffffff",
+  "P2": "d8262c",
+  "P3": "2a62d8",
+  "P4": "2fa84a"
+ },
+ "mildingows": {
+  "names": [
+   "M1",
+   "M2",
+   "M3"
+  ],
+  "height": 1.78,
+  "bones": {
+   "hips": "Hips",
+   "spine": "Spine1",
+   "spine0": "Spine",
+   "neck": "Neck",
+   "head": "Head",
+   "armR": "LeftArm",
+   "foreR": "LeftForeArm",
+   "handR": "LeftHand",
+   "armL": "RightArm",
+   "foreL": "RightForeArm",
+   "handL": "RightHand",
+   "thighR": "LeftUpLeg",
+   "shinR": "LeftLeg",
+   "footR": "LeftFoot",
+   "thighL": "RightUpLeg",
+   "shinL": "RightLeg",
+   "footL": "RightFoot"
+  },
+  "jackets": {
+   "M1": "5a4632",
+   "M2": "4d5534",
+   "M3": "5c5a58"
+  },
+  "beards": {
+   "M1": "9e978c",
+   "M2": "3a2a1e",
+   "M3": "a2501e"
+  }
+ },
+ "jumento_polys": 8378
+}

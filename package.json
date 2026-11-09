@@ -15,7 +15,19 @@
     "missao:render": "node src/missao/render.mjs",
     "feliz:proof": "node src/feliz/render.mjs --proof",
     "feliz:stills": "node src/feliz/stills.mjs",
-    "feliz:render": "node src/feliz/render.mjs"
+    "feliz:render": "node src/feliz/render.mjs",
+    "zombies:proof": "node src/zombies/render.mjs --proof",
+    "zombies:stills": "node src/zombies/stills.mjs",
+    "zombies:render": "node src/zombies/render.mjs",
+    "lego:proof": "node src/lego/render.mjs --proof",
+    "lego:stills": "node src/lego/stills.mjs",
+    "lego:render": "node src/lego/render.mjs",
+    "pardao:proof": "node src/pardao/render.mjs --proof",
+    "pardao:stills": "node src/pardao/stills.mjs",
+    "pardao:render": "node src/pardao/render.mjs",
+    "erva:proof": "node src/erva/render.mjs --proof",
+    "erva:stills": "node src/erva/stills.mjs",
+    "erva:render": "node src/erva/render.mjs"
   },
   "dependencies": {
     "@napi-rs/canvas": "^1.1.0",

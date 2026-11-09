@@ -1,0 +1,421 @@
+{
+ "_": "All timing lives here, read by Blender (shots) and Node (captions). Times are song seconds. Video time v = song - start, frame index n = round(v * 24). A card word is [text with syllable marks, first syllable, [syllable onsets]]. To fix a late or early syllable, change its number and run: npm run erva:proof. Times: CTC forced aligner (with syllable onsets from its character spans) and Whisper on the Demucs vocal stem, each syllable snapped to the vocal attack within 80 ms (first) or 60 ms (others) by src/erva/sync/attacks.py. The notes list everything placed by judgement.",
+ "audio": "audio/pardão&erva.wav",
+ "mix": "blender/erva/sync/mix.wav",
+ "mix_t0": 47.6,
+ "start": 47.6,
+ "frames": 1296,
+ "fps": 24,
+ "bpm": 150,
+ "beat0": 48,
+ "bar": 3.2,
+ "notes": {
+  "cut": "Window 47.6 to 101.6 s (1296 frames at 24 fps). The 16 couplets are the 16 bars of 3.2 s from 48 to 99.2; the start is the beat before, for the \"vou te\" pickup. The bar after the last couplet carries the FIM card. mix.wav (src/erva/sync/mix.py) uses the instrumental stem before 47.66 (the tail of the previous verse's \"estar\") and from 99.10-99.20 on (the next verse starts at 99.04), and fades out over the last second.",
+  "grid": "150 BPM from 0 s. grid.py fitted 150.01 BPM with its phase 16 ms early (STFT window lead); the band's earliest bar hits land exactly on multiples of 3.2 s.",
+  "4 Eva": "You wrote \"com a eva\"; both Whisper passes hear \"com a erva\", even when prompted with \"eva\". The aligner can't tell them apart (0.11 vs 0.09). Kept as Eva until you say otherwise.",
+  "8 sozinho": "You wrote \"e tava no meio da selva\"; the aligner scores \"sozinho na selva\" 0.71 against 0.49, and both Whisper passes hear \"sozinho\". Captioned as sung; same syllable count either way.",
+  "14 logo": "You wrote \"aceitou esse novo caminho\"; the aligner scores \"aceitou logo esse caminho\" 0.53 against 0.44 (its \"novo\" collapses to 80 ms), and both Whisper passes hear \"logo\". Captioned as sung.",
+  "mnham": "Not phonetic enough for the aligner. Placed on the three vocal bumps before each next bar: 53.83/54.04/54.05 is tight (only 0.35 s between \"Eva\" and \"pardão\"); 66.66/66.85/67.06 matches Whisper's prompted pass. Check by ear.",
+  "laugh": "Read off the spectrogram: four groups of short-short-long, the long HA/HO on the beat. Snapped.",
+  "31 arapuca": "\"sua arapuca\" is sung elided (su-a-ra-pu-ca); syllables set by hand from the loudness dips.",
+  "accents": "Standard words are written with accents (história, pardão, você, não, já); your slang spellings are kept (meretrevaz, menisquência, basiadin, de finin, cos, num, cê tá, oq). \"menisquencia\"/\"vicencia\" got a circumflex: say if you want them bare."
+ },
+ "cards": [
+  {
+   "t": 47.6,
+   "moment": "conto",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["vou", 47.801, [47.801]],
+     ["te", 47.971, [47.971]],
+     ["con-tar", 48.195, [48.195, 48.42]],
+     ["a", 48.556, [48.556]],
+     ["his-tó-ria", 48.637, [48.637, 48.799, 49.009]]
+    ],
+    [
+     ["do", 49.393, [49.393]],
+     ["par-dão", 49.602, [49.602, 49.802]],
+     ["e", 50.066, [50.066]],
+     ["da", 50.191, [50.191]],
+     ["er-va", 50.496, [50.496, 50.617]]
+    ]
+   ]
+  },
+  {
+   "t": 50.808,
+   "moment": "cachimbo",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["só", 51.029, [51.029]],
+     ["es-pe-ra", 51.102, [51.102, 51.229, 51.393]],
+     ["eu", 51.463, [51.463]],
+     ["dar", 51.608, [51.608]],
+     ["um", 51.806, [51.806]],
+     ["pu-xe", 52.002, [52.002, 52.211]]
+    ],
+    [
+     ["no", 52.461, [52.461]],
+     ["ca-chim-bo", 52.566, [52.566, 52.715, 52.995]],
+     ["com", 53.184, [53.184]],
+     ["a", 53.406, [53.406]],
+     ["E-va", 53.648, [53.648, 53.828]]
+    ]
+   ],
+   "adlib": [
+    ["(mnham", 53.828, [53.828]],
+    ["mnham", 54.042, [54.042]],
+    ["mnham)", 54.112, [54.112]]
+   ]
+  },
+  {
+   "t": 54.225,
+   "moment": "trevas",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["par-dão", 54.167, [54.167, 54.386]],
+     ["es-ta-va", 54.607, [54.607, 54.771, 54.975]],
+     ["an-dan-do", 55.074, [55.074, 55.185, 55.399]]
+    ],
+    [
+     ["so-zi-nho", 55.594, [55.594, 55.762, 55.983]],
+     ["no", 56.217, [56.217]],
+     ["me-re-tre-vaz", 56.402, [56.402, 56.586, 56.776, 57.009]]
+    ]
+   ]
+  },
+  {
+   "t": 57.183,
+   "moment": "selva",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["deu", 57.405, [57.405]],
+     ["dois", 57.599, [57.599]],
+     ["pas-so", 57.809, [57.809, 58.038]],
+     ["pra", 58.188, [58.188]],
+     ["fren-te", 58.447, [58.447, 58.577]]
+    ],
+    [
+     ["e", 58.582, [58.582]],
+     ["ta-va", 58.786, [58.786, 58.971]],
+     ["so-zi-nho", 59.2, [59.2, 59.355, 59.555]],
+     ["na", 59.794, [59.794]],
+     ["sel-va", 60.034, [60.034, 60.258]]
+    ]
+   ]
+  },
+  {
+   "t": 60.392,
+   "moment": "jardim",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["an-dan-do", 60.602, [60.602, 60.802, 61.024]],
+     ["no", 61.241, [61.241]],
+     ["jar-dim", 61.43, [61.43, 61.645]]
+    ],
+    [
+     ["u-ma", 61.921, [61.921, 62.054]],
+     ["co-bra", 62.249, [62.249, 62.428]],
+     ["vei-o", 62.623, [62.623, 62.797]],
+     ["de", 62.867, [62.867]],
+     ["fi-nin", 63.047, [63.047, 63.226]]
+    ]
+   ]
+  },
+  {
+   "t": 63.6,
+   "moment": "basiadin",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["che-gou", 63.76, [63.76, 64.029]],
+     ["na", 64.229, [64.229]],
+     ["me-nis-quên-cia", 64.444, [64.444, 64.584, 64.818, 65.027]]
+    ],
+    [
+     ["o-fe-re-ceu", 65.162, [65.162, 65.272, 65.396, 65.547]],
+     ["um", 65.82, [65.82]],
+     ["ba-si-a-din", 65.89, [65.89, 66.05, 66.235, 66.394]]
+    ]
+   ],
+   "adlib": [
+    ["(mnham", 66.659, [66.659]],
+    ["mnham", 66.848, [66.848]],
+    ["mnham)", 67.063, [67.063]]
+   ]
+  },
+  {
+   "t": 67.183,
+   "moment": "caminho",
+   "speaker": "NARRADOR",
+   "rows": [
+    [
+     ["par-dão", 67.187, [67.187, 67.392]],
+     ["sem", 67.631, [67.631]],
+     ["pen-sar", 67.801, [67.801, 68.03]]
+    ],
+    [
+     ["a-cei-tou", 68.439, [68.439, 68.509, 68.629]],
+     ["lo-go", 68.829, [68.829, 69.018]],
+     ["es-se", 69.088, [69.088, 69.184]],
+     ["ca-mi-nho", 69.382, [69.382, 69.586, 69.788]]
+    ]
+   ]
+  },
+  {
+   "t": 70.017,
+   "moment": "da_boa",
+   "speaker": "COBRA",
+   "rows": [
+    [
+     ["es-sa", 70.24, [70.24, 70.4]],
+     ["é", 70.6, [70.6]],
+     ["da", 70.67, [70.67]],
+     ["bo-a,", 70.814, [70.814, 71.024]],
+     ["par-dão", 71.233, [71.233, 71.433]]
+    ],
+    [
+     ["o-q", 71.782, [71.782, 71.971]],
+     ["a-chou,", 72.044, [72.044, 72.156]],
+     ["fa-la", 72.425, [72.425, 72.61]],
+     ["pra", 72.839, [72.839]],
+     ["mim", 72.994, [72.994]]
+    ]
+   ]
+  },
+  {
+   "t": 73.392,
+   "moment": "compensa",
+   "speaker": "PARDÃO",
+   "rows": [
+    [
+     ["es-sa", 73.608, [73.608, 73.812]],
+     ["flor", 73.956, [73.956]],
+     ["é", 74.211, [74.211]],
+     ["bo-a", 74.446, [74.446, 74.615]],
+     ["mas", 74.81, [74.81]]
+    ],
+    [
+     ["a-cho", 75.005, [75.005, 75.219]],
+     ["que", 75.394, [75.394]],
+     ["num", 75.613, [75.613]],
+     ["com-pen-sa", 75.803, [75.803, 76.022, 76.257]]
+    ]
+   ]
+  },
+  {
+   "t": 76.392,
+   "moment": "tarde",
+   "speaker": "COBRA",
+   "rows": [
+    [
+     ["tar-de", 76.606, [76.606, 76.81]],
+     ["de-mais,", 77.005, [77.005, 77.215]],
+     ["par-dão", 77.429, [77.429, 77.649]]
+    ],
+    [
+     ["já", 78.023, [78.023]],
+     ["rou-bei", 78.172, [78.172, 78.407]],
+     ["su-a", 78.636, [78.636, 78.811]],
+     ["vi-cên-cia", 79.005, [79.005, 79.22, 79.449]]
+    ]
+   ]
+  },
+  {
+   "t": 79.6,
+   "moment": "alma",
+   "speaker": "COBRA",
+   "rows": [
+    [
+     ["su-a", 79.834, [79.834, 79.904]],
+     ["al-ma", 79.998, [79.998, 80.223]],
+     ["é", 80.293, [80.293]],
+     ["mi-nha", 80.422, [80.422, 80.582]],
+     ["a-go-ra", 80.801, [80.801, 80.871, 81.021]]
+    ],
+    [
+     ["não", 81.21, [81.21]],
+     ["ve-nha", 81.415, [81.415, 81.61]],
+     ["com", 81.814, [81.814]],
+     ["me-nis-quên-cia", 81.999, [81.999, 82.176, 82.428, 82.582]]
+    ]
+   ]
+  },
+  {
+   "t": 82.683,
+   "moment": "risada",
+   "speaker": "COBRA",
+   "rows": [
+    [
+     ["HA-HA-HA", 82.802, [82.802, 82.966, 83.166]],
+     ["HO-HO-HO,", 83.61, [83.61, 83.775, 84.004]]
+    ],
+    [
+     ["HO-HO-HO", 84.388, [84.388, 84.568, 84.787]],
+     ["HA-HA-HA", 85.221, [85.221, 85.386, 85.6]]
+    ]
+   ]
+  },
+  {
+   "t": 86.017,
+   "moment": "mole",
+   "speaker": "PARDÃO",
+   "rows": [
+    [
+     ["vai", 86.194, [86.194]],
+     ["se", 86.444, [86.444]],
+     ["f#-der", 86.603, [86.603, 86.818]],
+     ["su-a", 87.002, [87.002, 87.072]],
+     ["co-bra", 87.217, [87.217, 87.401]],
+     ["mo-le", 87.636, [87.636, 87.789]]
+    ],
+    [
+     ["vo-cê", 88.01, [88.01, 88.21]],
+     ["não", 88.399, [88.399]],
+     ["me", 88.554, [88.554]],
+     ["as-sus-ta", 88.678, [88.678, 88.748, 88.993]]
+    ]
+   ]
+  },
+  {
+   "t": 89.183,
+   "moment": "crew",
+   "speaker": "PARDÃO",
+   "rows": [
+    [
+     ["sou", 89.402, [89.402]],
+     ["fe-cha-do", 89.616, [89.616, 89.811, 90.02]],
+     ["cos", 90.18, [90.18]],
+     ["par-do", 90.429, [90.429, 90.634]]
+    ],
+    [
+     ["já", 90.809, [90.809]],
+     ["ves-te", 91.003, [91.003, 91.218]],
+     ["a", 91.402, [91.402]],
+     ["ca-ra-pu-ça", 91.637, [91.637, 91.806, 92.041, 92.146]]
+    ]
+   ]
+  },
+  {
+   "t": 92.392,
+   "moment": "cigarros",
+   "speaker": "PARDÃO",
+   "rows": [
+    [
+     ["fu-mei", 92.575, [92.575, 92.762]],
+     ["dois", 93.188, [93.188]],
+     ["ci-gar-ro", 93.428, [93.428, 93.572, 93.782]]
+    ],
+    [
+     ["ou-ve", 93.932, [93.932, 94.166]],
+     ["mi-nha", 94.38, [94.38, 94.46]],
+     ["bar-ra,", 94.785, [94.785, 94.885]],
+     ["su-a", 95.234, [95.234, 95.373]],
+     ["p#-ta", 95.618, [95.618, 95.71]]
+    ]
+   ]
+  },
+  {
+   "t": 95.85,
+   "moment": "arapuca",
+   "speaker": "PARDÃO",
+   "rows": [
+    [
+     ["cê", 95.997, [95.997]],
+     ["tá", 96.201, [96.201]],
+     ["fe-cha-do", 96.401, [96.401, 96.59, 96.765]],
+     ["com", 96.985, [96.985]],
+     ["os", 97.074, [97.074]],
+     ["ca-ra", 97.199, [97.199, 97.379]]
+    ],
+    [
+     ["não", 97.578, [97.578]],
+     ["cai-o", 97.758, [97.758, 98.067]],
+     ["na", 98.192, [98.192]],
+     ["su-a", 98.36, [98.36, 98.43]],
+     ["a-ra-pu-ca", 98.5, [98.5, 98.6, 98.8, 99]]
+    ]
+   ]
+  },
+  {
+   "t": 99.2,
+   "moment": "fim",
+   "speaker": null,
+   "rows": []
+  }
+ ],
+ "shots": [
+  {
+   "t": 47.6,
+   "moment": "conto"
+  },
+  {
+   "t": 51.2,
+   "moment": "cachimbo"
+  },
+  {
+   "t": 54.4,
+   "moment": "trevas"
+  },
+  {
+   "t": 57.6,
+   "moment": "selva"
+  },
+  {
+   "t": 60.8,
+   "moment": "jardim"
+  },
+  {
+   "t": 64,
+   "moment": "basiadin"
+  },
+  {
+   "t": 67.2,
+   "moment": "caminho"
+  },
+  {
+   "t": 70.4,
+   "moment": "da_boa"
+  },
+  {
+   "t": 73.6,
+   "moment": "compensa"
+  },
+  {
+   "t": 76.8,
+   "moment": "tarde"
+  },
+  {
+   "t": 80,
+   "moment": "alma"
+  },
+  {
+   "t": 83.2,
+   "moment": "risada"
+  },
+  {
+   "t": 86.4,
+   "moment": "mole"
+  },
+  {
+   "t": 89.6,
+   "moment": "crew"
+  },
+  {
+   "t": 92.8,
+   "moment": "cigarros"
+  },
+  {
+   "t": 96,
+   "moment": "arapuca"
+  },
+  {
+   "t": 99.2,
+   "moment": "fim"
+  }
+ ]
+}

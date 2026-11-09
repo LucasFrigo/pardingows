@@ -1,0 +1,996 @@
+{
+ "mendigo_capuz": {
+  "row": "characters",
+  "meshes": 1,
+  "polys": 707,
+  "mats": 1,
+  "tex": [
+   "512x512"
+  ],
+  "size": [
+   0.77,
+   0.6,
+   1.14
+  ],
+  "width": 0.77,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.35965,
+  "metres": [
+   1.05,
+   0.82,
+   1.55
+  ]
+ },
+ "thug_lp": {
+  "row": "characters",
+  "meshes": 1,
+  "polys": 5488,
+  "mats": 1,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   97.66,
+   28.1,
+   176.19
+  ],
+  "width": 97.66,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.0101,
+  "metres": [
+   0.99,
+   0.28,
+   1.78
+  ]
+ },
+ "homem_lp": {
+  "row": "characters",
+  "meshes": 8,
+  "polys": 1479,
+  "mats": 6,
+  "tex": [],
+  "size": [
+   70.51,
+   58.72,
+   204.53
+  ],
+  "width": 70.51,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.0087,
+  "metres": [
+   0.61,
+   0.51,
+   1.78
+  ]
+ },
+ "jumento": {
+  "row": "characters",
+  "meshes": 1,
+  "polys": 33515,
+  "mats": 1,
+  "tex": [
+   "1024x1024",
+   "2048x2048"
+  ],
+  "size": [
+   0.61,
+   0.55,
+   0.51
+  ],
+  "width": 0.61,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 2.64706,
+  "metres": [
+   1.61,
+   1.45,
+   1.36
+  ]
+ },
+ "pistola": {
+  "row": "characters",
+  "meshes": 7,
+  "polys": 550,
+  "mats": 7,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   4.57,
+   3.57,
+   2.92
+  ],
+  "width": 4.57,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.04814,
+  "metres": [
+   0.22,
+   0.17,
+   0.14
+  ]
+ },
+ "slums": {
+  "row": "favela",
+  "meshes": 36,
+  "polys": 16661,
+  "mats": 36,
+  "tex": [
+   "512x512"
+  ],
+  "size": [
+   17.3,
+   8.15,
+   7.79
+  ],
+  "width": 17.3,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   17.3,
+   8.15,
+   7.79
+  ]
+ },
+ "casa1": {
+  "row": "favela",
+  "meshes": 7,
+  "polys": 780,
+  "mats": 7,
+  "tex": [
+   "1024x1024",
+   "2048x2048",
+   "2048x4096",
+   "256x512"
+  ],
+  "size": [
+   11.52,
+   15.5,
+   14.93
+  ],
+  "width": 11.52,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.56932,
+  "metres": [
+   6.56,
+   8.83,
+   8.5
+  ]
+ },
+ "casa2": {
+  "row": "favela",
+  "meshes": 14,
+  "polys": 950,
+  "mats": 14,
+  "tex": [
+   "1024x1024",
+   "2048x2048",
+   "4096x2048",
+   "512x512"
+  ],
+  "size": [
+   7.67,
+   10.36,
+   13.82
+  ],
+  "width": 7.67,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.72359,
+  "metres": [
+   5.55,
+   7.5,
+   10.0
+  ]
+ },
+ "casas_pack": {
+  "row": "favela",
+  "meshes": 40,
+  "polys": 2240,
+  "mats": 40,
+  "tex": [
+   "1024x1024",
+   "2048x2048",
+   "2048x4096",
+   "256x512",
+   "4096x2048",
+   "512x512"
+  ],
+  "size": [
+   48.59,
+   29.7,
+   15.54
+  ],
+  "width": 48.59,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.5148,
+  "metres": [
+   25.02,
+   15.29,
+   8.0
+  ]
+ },
+ "casas_pack2": {
+  "row": "favela",
+  "meshes": 35,
+  "polys": 2676,
+  "mats": 35,
+  "tex": [
+   "1024x1024",
+   "2048x2048",
+   "2048x4096",
+   "256x512",
+   "4096x2048",
+   "512x512"
+  ],
+  "size": [
+   26.05,
+   37.32,
+   16.24
+  ],
+  "width": 26.05,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.5234,
+  "metres": [
+   13.63,
+   19.53,
+   8.5
+  ]
+ },
+ "rua_favela": {
+  "row": "favela",
+  "meshes": 283,
+  "polys": 35831,
+  "mats": 8,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   18.46,
+   20.69,
+   12.32
+  ],
+  "width": 18.46,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   18.46,
+   20.69,
+   12.32
+  ]
+ },
+ "casa_br": {
+  "row": "favela",
+  "meshes": 3,
+  "polys": 3490,
+  "mats": 3,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   7.08,
+   6.51,
+   4.44
+  ],
+  "width": 7.08,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   7.08,
+   6.51,
+   4.44
+  ]
+ },
+ "favelas": {
+  "row": "favela",
+  "meshes": 23,
+  "polys": 7500,
+  "mats": 4,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   30.63,
+   7.2,
+   7.5
+  ],
+  "width": 30.63,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   30.63,
+   7.2,
+   7.5
+  ]
+ },
+ "barraco": {
+  "row": "favela",
+  "meshes": 6,
+  "polys": 6006,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   9.38,
+   10.66,
+   6.41
+  ],
+  "width": 9.38,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   9.38,
+   10.66,
+   6.41
+  ]
+ },
+ "morro": {
+  "row": "favela",
+  "meshes": 43,
+  "polys": 8848,
+  "mats": 39,
+  "tex": [],
+  "size": [
+   8.63,
+   7.98,
+   5.22
+  ],
+  "width": 8.63,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   8.63,
+   7.98,
+   5.22
+  ]
+ },
+ "escada": {
+  "row": "favela",
+  "meshes": 1,
+  "polys": 126,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   130.13,
+   40.44,
+   124.0
+  ],
+  "width": 130.13,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.02419,
+  "metres": [
+   3.15,
+   0.98,
+   3.0
+  ]
+ },
+ "escada2": {
+  "row": "favela",
+  "meshes": 1,
+  "polys": 282,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   121.0,
+   131.3,
+   124.0
+  ],
+  "width": 121.0,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.02419,
+  "metres": [
+   2.93,
+   3.18,
+   3.0
+  ]
+ },
+ "muro_concreto": {
+  "row": "favela",
+  "meshes": 1,
+  "polys": 16,
+  "mats": 1,
+  "tex": [
+   "4096x4096"
+  ],
+  "size": [
+   0.0,
+   1115.0,
+   404.53
+  ],
+  "width": 0.0,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.00742,
+  "metres": [
+   0.0,
+   8.27,
+   3.0
+  ]
+ },
+ "grafite": {
+  "row": "favela",
+  "meshes": 62,
+  "polys": 970,
+  "mats": 61,
+  "tex": [
+   "1024x1024",
+   "1024x512",
+   "512x512"
+  ],
+  "size": [
+   22.42,
+   22.7,
+   2.05
+  ],
+  "width": 22.42,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   22.42,
+   22.7,
+   2.05
+  ]
+ },
+ "zinco": {
+  "row": "favela",
+  "meshes": 3,
+  "polys": 6732,
+  "mats": 3,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   0.53,
+   15.12,
+   6.67
+  ],
+  "width": 0.53,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.32984,
+  "metres": [
+   0.17,
+   4.99,
+   2.2
+  ]
+ },
+ "caixa_dagua": {
+  "row": "favela",
+  "meshes": 8,
+  "polys": 6400,
+  "mats": 4,
+  "tex": [],
+  "size": [
+   420.56,
+   373.31,
+   754.74
+  ],
+  "width": 420.56,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.00662,
+  "metres": [
+   2.79,
+   2.47,
+   5.0
+  ]
+ },
+ "poste_luz": {
+  "row": "favela",
+  "meshes": 2,
+  "polys": 144,
+  "mats": 2,
+  "tex": [
+   "16x16"
+  ],
+  "size": [
+   2.0,
+   0.25,
+   10.62
+  ],
+  "width": 2.0,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   2.0,
+   0.25,
+   10.62
+  ]
+ },
+ "lampiao": {
+  "row": "favela",
+  "meshes": 1,
+  "polys": 3964,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   248.74,
+   269.28,
+   1375.08
+  ],
+  "width": 248.74,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.00327,
+  "metres": [
+   0.81,
+   0.88,
+   4.5
+  ]
+ },
+ "bandeirolas": {
+  "row": "favela",
+  "meshes": 13,
+  "polys": 1124,
+  "mats": 2,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   39.53,
+   14.84,
+   3.07
+  ],
+  "width": 39.53,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   39.53,
+   14.84,
+   3.07
+  ]
+ },
+ "kombi": {
+  "row": "favela",
+  "meshes": 23,
+  "polys": 11294,
+  "mats": 8,
+  "tex": [],
+  "size": [
+   1.82,
+   3.97,
+   1.77
+  ],
+  "width": 1.82,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.08312,
+  "metres": [
+   1.97,
+   4.3,
+   1.92
+  ]
+ },
+ "moto": {
+  "row": "favela",
+  "meshes": 2,
+  "polys": 456,
+  "mats": 2,
+  "tex": [
+   "128x128"
+  ],
+  "size": [
+   12.13,
+   7.94,
+   11.41
+  ],
+  "width": 12.13,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.09641,
+  "metres": [
+   1.17,
+   0.77,
+   1.1
+  ]
+ },
+ "cadeira": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 3356,
+  "mats": 1,
+  "tex": [
+   "4096x4096"
+  ],
+  "size": [
+   0.81,
+   0.79,
+   1.11
+  ],
+  "width": 0.81,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.76577,
+  "metres": [
+   0.62,
+   0.6,
+   0.85
+  ]
+ },
+ "engradado": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 776,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   233.2,
+   172.83,
+   132.15
+  ],
+  "width": 233.2,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.00227,
+  "metres": [
+   0.53,
+   0.39,
+   0.3
+  ]
+ },
+ "saco_lixo": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 387,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   2.0,
+   1.43,
+   1.35
+  ],
+  "width": 2.0,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.51852,
+  "metres": [
+   1.04,
+   0.74,
+   0.7
+  ]
+ },
+ "lixeira": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 294,
+  "mats": 1,
+  "tex": [
+   "4096x4096"
+  ],
+  "size": [
+   169.17,
+   194.32,
+   278.54
+  ],
+  "width": 169.17,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.00323,
+  "metres": [
+   0.55,
+   0.63,
+   0.9
+  ]
+ },
+ "cacamba": {
+  "row": "objects",
+  "meshes": 3,
+  "polys": 4576,
+  "mats": 3,
+  "tex": [],
+  "size": [
+   0.55,
+   0.27,
+   0.32
+  ],
+  "width": 0.55,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 4.0625,
+  "metres": [
+   2.21,
+   1.09,
+   1.29
+  ]
+ },
+ "tambor_fogo": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 680,
+  "mats": 1,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   0.83,
+   0.83,
+   1.23
+  ],
+  "width": 0.83,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.73171,
+  "metres": [
+   0.61,
+   0.61,
+   0.9
+  ]
+ },
+ "carrinho": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 38,
+  "mats": 1,
+  "tex": [
+   "512x512"
+  ],
+  "size": [
+   0.62,
+   1.19,
+   1.06
+  ],
+  "width": 0.62,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.9434,
+  "metres": [
+   0.59,
+   1.12,
+   1.0
+  ]
+ },
+ "caixas": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 110,
+  "mats": 1,
+  "tex": [
+   "1024x1024"
+  ],
+  "size": [
+   1.54,
+   1.1,
+   0.71
+  ],
+  "width": 1.54,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 1.0,
+  "metres": [
+   1.54,
+   1.1,
+   0.71
+  ]
+ },
+ "radio": {
+  "row": "objects",
+  "meshes": 4,
+  "polys": 194,
+  "mats": 1,
+  "tex": [
+   "256x256"
+  ],
+  "size": [
+   1.06,
+   0.69,
+   1.74
+  ],
+  "width": 1.06,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.20115,
+  "metres": [
+   0.21,
+   0.14,
+   0.35
+  ]
+ },
+ "caixa_som": {
+  "row": "objects",
+  "meshes": 5,
+  "polys": 9531,
+  "mats": 4,
+  "tex": [
+   "4096x4096"
+  ],
+  "size": [
+   8.49,
+   5.66,
+   5.66
+  ],
+  "width": 8.49,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.21201,
+  "metres": [
+   1.8,
+   1.2,
+   1.2
+  ]
+ },
+ "dj": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 444,
+  "mats": 1,
+  "tex": [
+   "512x512"
+  ],
+  "size": [
+   424.25,
+   261.63,
+   259.68
+  ],
+  "width": 424.25,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.00385,
+  "metres": [
+   1.63,
+   1.01,
+   1.0
+  ]
+ },
+ "microfone": {
+  "row": "objects",
+  "meshes": 9,
+  "polys": 2856,
+  "mats": 1,
+  "tex": [
+   "4096x4096"
+  ],
+  "size": [
+   0.33,
+   0.29,
+   0.77
+  ],
+  "width": 0.33,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 2.07792,
+  "metres": [
+   0.68,
+   0.6,
+   1.6
+  ]
+ },
+ "baseado": {
+  "row": "objects",
+  "meshes": 3,
+  "polys": 4410,
+  "mats": 3,
+  "tex": [
+   "2048x2048",
+   "256x256"
+  ],
+  "size": [
+   0.1,
+   0.01,
+   0.01
+  ],
+  "width": 0.1,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.9,
+  "metres": [
+   0.09,
+   0.01,
+   0.01
+  ]
+ },
+ "calendario": {
+  "row": "objects",
+  "meshes": 8,
+  "polys": 54,
+  "mats": 2,
+  "tex": [
+   "512x512"
+  ],
+  "size": [
+   4.11,
+   0.39,
+   2.34
+  ],
+  "width": 4.11,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.19231,
+  "metres": [
+   0.79,
+   0.07,
+   0.45
+  ]
+ },
+ "taco": {
+  "row": "objects",
+  "meshes": 1,
+  "polys": 2016,
+  "mats": 1,
+  "tex": [
+   "2048x2048"
+  ],
+  "size": [
+   1.03,
+   0.07,
+   0.07
+  ],
+  "width": 1.03,
+  "armatures": [],
+  "skinned": [],
+  "actions": [],
+  "scale": 0.82524,
+  "metres": [
+   0.85,
+   0.06,
+   0.06
+  ]
+ }
+}

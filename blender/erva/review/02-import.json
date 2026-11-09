@@ -1,0 +1,706 @@
+{
+ "arbusto": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 629,
+  "size": [
+   1.41,
+   1.48,
+   0.9
+  ],
+  "alpha_cut": true,
+  "parts": []
+ },
+ "arvore": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 17624,
+  "size": [
+   2.28,
+   2.03,
+   3.8
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "arvore_assombrada": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 6042,
+  "size": [
+   2.82,
+   2.81,
+   3.8
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "arvore_morta": {
+  "objects": 3,
+  "meshes": 1,
+  "verts": 1248,
+  "size": [
+   2.85,
+   2.69,
+   3.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "arvore_retorcida": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 2504,
+  "size": [
+   1.98,
+   1.43,
+   3.2
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "arvores_pack": {
+  "objects": 71,
+  "meshes": 46,
+  "verts": 17929,
+  "size": [
+   9.43,
+   6.99,
+   4.0
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "arvores_toon": {
+  "objects": 31,
+  "meshes": 13,
+  "verts": 14168,
+  "size": [
+   51.9,
+   28.28,
+   3.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "bananeira": {
+  "objects": 15,
+  "meshes": 7,
+  "verts": 4679,
+  "size": [
+   2.98,
+   2.44,
+   3.0
+  ],
+  "alpha_cut": true,
+  "parts": []
+ },
+ "baseados": {
+  "objects": 7,
+  "meshes": 2,
+  "verts": 277,
+  "size": [
+   0.16,
+   0.3,
+   0.03
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "cachimbo": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 348,
+  "size": [
+   0.55,
+   0.06,
+   0.22
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "cadeira_balanco": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 2755,
+  "size": [
+   0.5,
+   0.55,
+   1.05
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "caixa_registradora": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 321,
+  "size": [
+   0.78,
+   0.74,
+   0.5
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "cigarro": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 223,
+  "size": [
+   0.14,
+   1.0,
+   0.14
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "cogumelos": {
+  "objects": 53,
+  "meshes": 25,
+  "verts": 9317,
+  "size": [
+   0.98,
+   1.01,
+   0.7
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "costela_adao": {
+  "objects": 7,
+  "meshes": 2,
+  "verts": 924,
+  "size": [
+   3.23,
+   2.45,
+   1.2
+  ],
+  "alpha_cut": true,
+  "parts": []
+ },
+ "esqueletos": {
+  "objects": 9,
+  "meshes": 3,
+  "verts": 1758,
+  "size": [
+   2.16,
+   1.85,
+   1.1
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "flor": {
+  "objects": 7,
+  "meshes": 2,
+  "verts": 718,
+  "size": [
+   0.39,
+   0.58,
+   0.75
+  ],
+  "alpha_cut": true,
+  "parts": []
+ },
+ "flores": {
+  "objects": 30,
+  "meshes": 15,
+  "verts": 1758,
+  "size": [
+   1.8,
+   4.32,
+   0.91
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "gramofone": {
+  "objects": 13,
+  "meshes": 3,
+  "verts": 3275,
+  "size": [
+   0.47,
+   0.49,
+   0.75
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "livro": {
+  "objects": 15,
+  "meshes": 6,
+  "verts": 1190,
+  "size": [
+   0.42,
+   0.34,
+   0.03
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "livro_aberto": {
+  "objects": 4,
+  "meshes": 1,
+  "verts": 595,
+  "size": [
+   0.6,
+   0.08,
+   0.47
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "macieira": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 2550,
+  "size": [
+   2.95,
+   2.8,
+   3.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "margarida": {
+  "objects": 7,
+  "meshes": 3,
+  "verts": 404,
+  "size": [
+   0.3,
+   0.29,
+   0.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "microfone": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 6309,
+  "size": [
+   0.18,
+   0.18,
+   0.4
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "nuvem": {
+  "objects": 3,
+  "meshes": 1,
+  "verts": 576,
+  "size": [
+   2.6,
+   1.38,
+   1.75
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "orelha_elefante": {
+  "objects": 3,
+  "meshes": 1,
+  "verts": 1596,
+  "size": [
+   2.19,
+   2.26,
+   1.0
+  ],
+  "alpha_cut": true,
+  "parts": []
+ },
+ "palmeira": {
+  "objects": 7,
+  "meshes": 2,
+  "verts": 411,
+  "size": [
+   5.58,
+   7.1,
+   4.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "pe_erva": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 1312,
+  "size": [
+   0.6,
+   0.54,
+   0.7
+  ],
+  "alpha_cut": true,
+  "parts": []
+ },
+ "pedras": {
+  "objects": 33,
+  "meshes": 15,
+  "verts": 3018,
+  "size": [
+   4.0,
+   3.76,
+   0.63
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "placa": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 612,
+  "size": [
+   1.13,
+   0.15,
+   1.7
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "poltrona": {
+  "objects": 13,
+  "meshes": 5,
+  "verts": 1881,
+  "size": [
+   0.62,
+   0.57,
+   1.15
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "pote": {
+  "objects": 247,
+  "meshes": 121,
+  "verts": 12908,
+  "size": [
+   0.22,
+   0.22,
+   0.3
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "radio": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 9716,
+  "size": [
+   0.45,
+   0.32,
+   0.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "relogio": {
+  "objects": 5,
+  "meshes": 1,
+  "verts": 7233,
+  "size": [
+   0.51,
+   0.46,
+   2.1
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "toco": {
+  "objects": 3,
+  "meshes": 1,
+  "verts": 700,
+  "size": [
+   1.12,
+   1.0,
+   0.6
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "tronco_caido": {
+  "objects": 100,
+  "meshes": 48,
+  "verts": 7054,
+  "size": [
+   2.6,
+   2.6,
+   0.88
+  ],
+  "alpha_cut": false,
+  "parts": []
+ },
+ "_pieces": {
+  "arvores_toon": [
+   [
+    3.09,
+    2.53,
+    3.58
+   ],
+   [
+    2.16,
+    2.85,
+    3.58
+   ],
+   [
+    3.23,
+    3.39,
+    3.58
+   ],
+   [
+    3.22,
+    2.75,
+    3.58
+   ],
+   [
+    3.18,
+    2.65,
+    3.58
+   ],
+   [
+    2.18,
+    2.88,
+    3.58
+   ],
+   [
+    3.29,
+    3.44,
+    3.58
+   ],
+   [
+    3.27,
+    2.8,
+    3.58
+   ],
+   [
+    3.09,
+    2.52,
+    3.57
+   ],
+   [
+    2.15,
+    2.84,
+    3.57
+   ],
+   [
+    3.22,
+    3.38,
+    3.57
+   ],
+   [
+    3.21,
+    2.74,
+    3.57
+   ]
+  ],
+  "arvores_pack": [
+   [
+    1.61,
+    1.51,
+    3.68
+   ],
+   [
+    1.73,
+    1.79,
+    2.27
+   ],
+   [
+    0.98,
+    1.01,
+    1.25
+   ],
+   [
+    0.6,
+    0.61,
+    0.83
+   ],
+   [
+    1.47,
+    1.43,
+    1.53
+   ],
+   [
+    4.11,
+    4.17,
+    3.7
+   ],
+   [
+    0.52,
+    0.5,
+    0.59
+   ],
+   [
+    0.6,
+    0.63,
+    0.68
+   ],
+   [
+    1.56,
+    1.5,
+    1.72
+   ],
+   [
+    0.24,
+    0.31,
+    0.73
+   ],
+   [
+    0.3,
+    0.39,
+    0.97
+   ],
+   [
+    0.68,
+    0.72,
+    1.17
+   ],
+   [
+    0.61,
+    0.79,
+    1.78
+   ],
+   [
+    1.19,
+    1.14,
+    1.56
+   ],
+   [
+    1.7,
+    1.67,
+    2.48
+   ],
+   [
+    0.49,
+    0.5,
+    0.67
+   ],
+   [
+    1.16,
+    0.97,
+    1.78
+   ],
+   [
+    1.01,
+    1.06,
+    1.62
+   ]
+  ],
+  "pedras": [
+   [
+    0.78,
+    0.62,
+    0.57
+   ],
+   [
+    0.78,
+    0.62,
+    0.57
+   ],
+   [
+    0.78,
+    0.62,
+    0.57
+   ],
+   [
+    0.78,
+    0.75,
+    0.56
+   ],
+   [
+    0.78,
+    0.75,
+    0.56
+   ],
+   [
+    0.78,
+    0.75,
+    0.56
+   ],
+   [
+    0.63,
+    0.65,
+    0.52
+   ],
+   [
+    0.63,
+    0.65,
+    0.52
+   ],
+   [
+    0.63,
+    0.65,
+    0.52
+   ],
+   [
+    0.56,
+    0.58,
+    0.61
+   ],
+   [
+    0.56,
+    0.58,
+    0.61
+   ],
+   [
+    0.56,
+    0.58,
+    0.61
+   ],
+   [
+    0.59,
+    0.61,
+    0.54
+   ],
+   [
+    0.59,
+    0.61,
+    0.54
+   ],
+   [
+    0.59,
+    0.61,
+    0.54
+   ]
+  ],
+  "flores": [
+   [
+    1.53,
+    3.79,
+    0.92
+   ],
+   [
+    0.49,
+    0.45,
+    0.17
+   ],
+   [
+    0.44,
+    0.44,
+    0.14
+   ],
+   [
+    0.44,
+    0.44,
+    0.08
+   ],
+   [
+    0.32,
+    0.32,
+    0.14
+   ],
+   [
+    0.18,
+    0.1,
+    0.7
+   ]
+  ],
+  "cogumelos": [
+   [
+    0.98,
+    1.01,
+    0.71
+   ]
+  ]
+ }
+}
