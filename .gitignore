@@ -48,7 +48,6 @@ blender/erva/sync/
 blender/erva/review/cast/
 blender/erva/review/gallery/
 
-# Song masters over GitHub's 100 MB file limit (kept locally)
+# Song masters over GitHub's 100 MiB file limit (kept locally)
 audio/PARDOS FELIZ.wav
-audio/PARDOS vs ZOMBIES.wav
-audio/pardão&erva.wav
+audio/PARDO SÓ QUER SER FELIZ.wav
